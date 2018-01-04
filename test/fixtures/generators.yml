@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  raiz: 9.99
+  coef_num: 9.99
+  termino_ind: 9.99
+  residuo: 9.99
+
+two:
+  raiz: 9.99
+  coef_num: 9.99
+  termino_ind: 9.99
+  residuo: 9.99
